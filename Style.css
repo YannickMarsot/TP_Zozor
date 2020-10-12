@@ -1,0 +1,23 @@
+/* police d'écriture*/
+
+@font-face {
+    font-family: 'ballparkweiner';
+    src: url('tp_images_polices/polices/Webfontkits/ballpark-webfont.eot');
+    src: url('tp_images_polices/polices/Webfontkits/ballpark-webfont.eot?#iefix') format('embedded-opentype'),
+         url('tp_images_polices/polices/Webfontkits/ballpark-webfont.woff2') format('woff2'),
+         url('tp_images_polices/polices/Webfontkits/ballpark-webfont.woff') format('woff'),
+         url('tp_images_polices/polices/Webfontkits/ballpark-webfont.ttf') format('truetype'),
+         url('tp_images_polices/polices/Webfontkits/ballpark-webfont.svg#ballparkweiner') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face
+{
+    font-family: 'Dayrom';
+    src: url('tp_images_polices/polices/dayrom.eot');
+    src: url('tp_images_polices/polices/dayrom.eot?#iefix') format('embedded-opentype'),
+         url('tp_images_polices/polices/dayrom.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
