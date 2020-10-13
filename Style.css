@@ -21,3 +21,49 @@
          url('tp_images_polices/polices/dayrom.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+}
+
+/* Elements principaux */ 
+
+body
+{
+    background: url(tp_images_polices/images/fond_jaune.png);
+    font-family: 'Trebuchet MS','arial', sans-serif;
+    color: #181818;
+}
+
+#bloc_page
+{
+    width: 75%;
+    margin: auto;
+}
+
+section h1, footer h1, nav a
+{
+    font-family: Dayrom, serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+/* header */ 
+
+header
+{
+    background: url(tp_images_polices/images/separateur.png) repeat-x bottom;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;     
+}
+
+#Titre_pricipal
+{
+    display: flex;
+    flex-direction: column
+}
+
+#logo
+{
+    display: flex;
+    flex-direction: row;
+    
+}
